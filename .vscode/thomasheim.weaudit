@@ -3,7 +3,12 @@
   "gitRemote": "https://github.com/ThomasHeim11/IN3050-Introduction-to-Artificial-Intelligence-and-Machine-Learning",
   "gitSha": "b828c5a3b673efc9ad1bf8cbdfb9ce370efac915",
   "treeEntries": [],
-  "auditedFiles": [],
+  "auditedFiles": [
+    {
+      "path": "Weekly_Exercise/04_LinearRegression /in3050_2025_w5.ipynb",
+      "author": "thomasheim"
+    }
+  ],
   "partiallyAuditedFiles": [],
   "resolvedEntries": []
 }
